@@ -11,7 +11,7 @@
 
 - 📫 You can find my contact info here **https://mateusz-zdr.dev/kontakt**
 
-- ⚡ Homelab: **compute server: e5-2690v2 10C/20T 64GB ecc ddr3 storage server: poweredge r510 with L5640 6C/12T 32GB ecc ddr3 big plans coming though**
+- ⚡ Homelab: </br>**compute server: e5-2690v2 10C/20T 64GB ecc ddr3 </br>storage server: poweredge r510 with L5640 6C/12T 32GB ecc ddr3 </br>big plans coming though**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
