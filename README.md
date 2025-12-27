@@ -5,7 +5,7 @@
 
 - 🔭 Currently studying at 42 Warsaw **(Common Core) intra: mzdrodow**
 
-- 👨‍💻 Some of my projects can be found here although its not updated as often as it should be [https://mateusz-zdr.dev/projekty](https://mateusz-zdr.dev/projekty)
+- 👨‍💻 Some of my projects can be found here although it`s not updated as often as it should be [https://mateusz-zdr.dev/projekty](https://mateusz-zdr.dev/projekty)
 
 - 💬 I love: **programming, virtualization/self-hosting, game-development, C**
 
@@ -19,7 +19,7 @@
 <a href="https://instagram.com/mateusz_zdrodowski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mateusz_zdrodowski" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">I`ve worked with:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
