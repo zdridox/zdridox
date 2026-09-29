@@ -11,7 +11,7 @@
 
 - 📫 You can find my contact info here **https://mateusz-zdr.dev/kontakt**
 
-- ⚡ Homelab: </br>**compute server_1: e5-2690v2 10C/20T 64GB ecc ddr3 GTX1050ti</br>**compute server_2: i7-6700k 4C/8T 32GB ddr4** </br>storage server: poweredge r510 with L5640 6C/12T 32GB ecc ddr3 4x4TB HDD 2x256GB cache ssd
+- ⚡ Homelab: </br>**compute server_1**: e5-2690v2 10C/20T 64GB ecc ddr3 GTX1050ti </br>**compute server_2**: i7-6700k 4C/8T 32GB ddr4 </br>**storage server**: poweredge r510 with L5640 6C/12T 32GB ecc ddr3 4x4TB HDD 2x256GB cache ssd
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
